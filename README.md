@@ -15,4 +15,5 @@
 - Redux toolkit yapısını kullanarak geliştirdim.
 
 ## Proje İskeleti
-![İskelet](link-to-your-project-skeleton-image)
+
+![skeleton](https://github.com/Muratmms/react-movie-app/assets/88024817/2e3d2b08-1755-41aa-8916-6311b6b2116c)
