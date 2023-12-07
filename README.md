@@ -2,7 +2,7 @@
 
 ## Gif
 
-![moviegif](https://github.com/Muratmms/react-movie-app/assets/88024817/42e77def-3880-439c-8b9e-fc84b55d19e9)
+![moviegif](https://github.com/Muratmms/react-movie-app/assets/88024817/42e77def-3880-439c-8b9e-fc84b55d19e9) 
 
 ## Used Libraries
 - react-router-dom
