@@ -1,0 +1,129 @@
+body {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-image: url('https://www.cnet.com/a/img/resize/86b9980547940b306ec2651289a309c3fb80b0aa/hub/2023/01/19/fe9ab4fa-d9e5-45bf-b565-fdc0d1965522/gettyimages-1215025873.jpg?auto=webp&fit=bounds&height=675&precrop=4975,2798,x0,y0&width=1200');}
+  
+  
+.header {
+  position: fixed;
+  display: flex;
+  flex-wrap: wrap;
+  top: 0;
+  left: 0;
+  width: 100%;
+  font-size: 10px;
+  background-color: black;
+  color: white;
+  z-index: 1;
+
+}
+
+.search {
+
+  display: flex;
+  margin-top: 100px;
+  justify-content: center;
+  padding: 10px;
+  background-color: rgba(1, 1, 1, 0.9);
+  width: 1250px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.search-title {
+  font-size: 30px;
+  color: white;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+.search-input {
+  margin-left: 10px;
+  border-radius: 20px;
+ 
+}
+.movieContainer {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    
+  }
+  
+  .movieCard {
+    position: relative;
+    width: 300px;
+    height: 400px;
+    background-color:darkblue;
+    margin-top: 20px;
+    border-radius: 30px;
+  }
+  
+  .title {
+    color: white;
+    text-align: center;
+    
+  }
+  .title-header {
+    color: black;
+    text-align: center;
+    letter-spacing: 20px;
+  }
+  .movieCard {
+  
+    position: relative;
+    display: inline-block;
+    margin: 10px;
+    margin-bottom: 80px;
+  }
+  
+  .movieContent {
+    position: relative;
+  }
+  .tooltip {
+    position: relative;
+    background-color: rgba(255, 255, 255, 0.9);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transform: translateY(-100%);  
+    animation: slideIn 0.40s ease-in-out;
+    padding: 20px;
+    border-top-left-radius: 60px;
+    border-top-right-radius: 60px;
+  }
+  .movieCard:hover .tooltip {
+    display: block;
+  }
+  
+  .movieContainer .title {
+    font-size: 14px;
+  }
+  
+  @keyframes slideIn {
+    from {
+      transform: translateY(0);
+    }
+    to {
+      transform: translateY(-100%);
+    }
+  }
+
+  .footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    font-size: 10px;
+    background-color: black;
+    color: white;
+    z-index: 1;
+   
+    
+  }
+
+  .socialIcon {
+    position: absolute;
+    right: 0;
+  }
+
+  .item {
+    padding-right: 5px;
+  }
