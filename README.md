@@ -1,7 +1,7 @@
 # Movie App Projesi
 
 ## Gif
-![MOVIEGIF](link-to-your-gif)
+![moviegif](https://github.com/Muratmms/react-movie-app/assets/88024817/5b723aff-e431-4a23-a4a6-885bd6930472)
 
 ## Kullanılan Kütüphaneler
 - react-router-dom
