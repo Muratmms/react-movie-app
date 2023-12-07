@@ -1,7 +1,8 @@
 # Movie App Project
 
 ## Gif
-![moviegif](https://github.com/Muratmms/react-movie-app/blob/main/assets/88024817/5b723aff-e431-4a23-a4a6-885bd6930472.gif)
+
+![moviegif](https://github.com/Muratmms/react-movie-app/assets/88024817/42e77def-3880-439c-8b9e-fc84b55d19e9)
 
 ## Used Libraries
 - react-router-dom
@@ -15,4 +16,5 @@
 - I developed it using the Redux toolkit structure.
 
 ## Project Skeleton
-![skeleton](https://github.com/Muratmms/react-movie-app/blob/main/assets/88024817/2e3d2b08-1755-41aa-8916-6311b6b2116c.png)
+
+![skeleton](https://github.com/Muratmms/react-movie-app/assets/88024817/b53653d3-a754-4495-95af-acfc6dc87258)
